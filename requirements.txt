@@ -1,0 +1,3 @@
+telethon==1.38.1
+supabase==2.12.0
+aiohttp==3.11.12
